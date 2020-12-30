@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "Corn Chaat Recipe Image.heic",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Corn Chaat Recipe Image-1.heic",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "Corn Chaat Recipe Image-2.heic",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
